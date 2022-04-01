@@ -2,16 +2,16 @@
 
 - 🔭 I’m currently working on Node.js
 - 🌱 I’m currently learning Back-End
-- 👯 I’m like doing Competitive Programming 
+- 👯 I like doing Competitive Programming 
 - 🤔 I’m looking for help with documentation
-- 💬 Ask me about Node.js,React.js,Angular.js,Databases,Data Structures,Algorithms 
+- 💬 Ask me about Node.js,React.js,Databases,Data Structures,Algorithms 
 - 📫 How to reach me: ahzammohd123@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Software developers spend more time learning as compared to others
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-ahzam-678b451a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-ahzam-678b451a6" height="30" width="40" /></a>
+<a href="mohammad-ahzam-678b451a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-ahzam-678b451a6" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mohdhzm5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mohdhzm5" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/mohdhzm5?utm_medium=copy_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/mohdhzm5?utm_medium=copy_link" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ahzammohd123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ahzammohd123" height="30" width="40" /></a>
